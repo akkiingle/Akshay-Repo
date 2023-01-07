@@ -1,27 +1,6 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "Naresh Kumar H",
-      "email": "nareshkumarh@live.com",
-      "password": "pass123",
-      "role": "USER"
-    },
-    {
-      "id": 2,
-      "name": "Tushant",
-      "email": "tushant@gmail.com",
-      "password": "pass123",
-      "role": "ADMIN"
-    },
-    {
-      "id": 3,
-      "name": "N",
-      "email": "nareshkumarh@live.com",
-      "password": "pass123",
-      "role": "USER"
-    }
-  ],
+  "users": [],
+  "tasks":[],
   "cars": [
     {
       "id": 1,
